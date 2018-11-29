@@ -5,3 +5,4 @@ algamoney-api/
 .project/
 .DS_Store
 bin/
+.project
