@@ -1,4 +1,7 @@
 .DS_Store/
 target/
-/.settings/
-/algamoney-api/
+.settings/
+algamoney-api/
+.project/
+.DS_Store
+bin/
