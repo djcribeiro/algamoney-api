@@ -6,3 +6,4 @@ algamoney-api/
 .DS_Store
 bin/
 .project
+/.classpath
